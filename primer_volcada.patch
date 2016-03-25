@@ -1,0 +1,224 @@
+Index: backend/build/exploded-app/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/build/exploded-app/index.html	(date 1458853102000)
++++ backend/build/exploded-app/index.html	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/androidTest/java/com/gnb/ejemplo/ApplicationTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/androidTest/java/com/gnb/ejemplo/ApplicationTest.java	(date 1458853102000)
++++ app/src/androidTest/java/com/gnb/ejemplo/ApplicationTest.java	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/src/main/webapp/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/src/main/webapp/index.html	(date 1458853102000)
++++ backend/src/main/webapp/index.html	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/gnb/ejemplo/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/gnb/ejemplo/MainActivity.java	(date 1458853102000)
++++ app/src/main/java/com/gnb/ejemplo/MainActivity.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/test/java/com/gnb/ejemplo/ExampleUnitTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/test/java/com/gnb/ejemplo/ExampleUnitTest.java	(date 1458853102000)
++++ app/src/test/java/com/gnb/ejemplo/ExampleUnitTest.java	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/build/exploded-app/WEB-INF/logging.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/build/exploded-app/WEB-INF/logging.properties	(date 1458853102000)
++++ backend/build/exploded-app/WEB-INF/logging.properties	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values/dimens.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/dimens.xml	(date 1458853102000)
++++ app/src/main/res/values/dimens.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/.gitignore	(date 1458853102000)
++++ app/.gitignore	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/layout/activity_main.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_main.xml	(date 1458853102000)
++++ app/src/main/res/layout/activity_main.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/build/tmp/_appengineEndpointsAndroidArtifact/MANIFEST.MF
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/build/tmp/_appengineEndpointsAndroidArtifact/MANIFEST.MF	(date 1458853102000)
++++ backend/build/tmp/_appengineEndpointsAndroidArtifact/MANIFEST.MF	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/src/main/java/com/google/ejemplo/backend/MyBean.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/src/main/java/com/google/ejemplo/backend/MyBean.java	(date 1458853102000)
++++ backend/src/main/java/com/google/ejemplo/backend/MyBean.java	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/src/main/java/com/google/ejemplo/backend/MyEndpoint.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/src/main/java/com/google/ejemplo/backend/MyEndpoint.java	(date 1458853102000)
++++ backend/src/main/java/com/google/ejemplo/backend/MyEndpoint.java	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/src/main/webapp/WEB-INF/appengine-web.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/src/main/webapp/WEB-INF/appengine-web.xml	(date 1458853102000)
++++ backend/src/main/webapp/WEB-INF/appengine-web.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/build.gradle
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/build.gradle	(date 1458853102000)
++++ app/build.gradle	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/build/exploded-app/META-INF/MANIFEST.MF
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/build/exploded-app/META-INF/MANIFEST.MF	(date 1458853102000)
++++ backend/build/exploded-app/META-INF/MANIFEST.MF	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/java/com/gnb/ejemplo/EndpointsAsyncTask.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/gnb/ejemplo/EndpointsAsyncTask.java	(date 1458853102000)
++++ app/src/main/java/com/gnb/ejemplo/EndpointsAsyncTask.java	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/AndroidManifest.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/AndroidManifest.xml	(date 1458853102000)
++++ app/src/main/AndroidManifest.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/proguard-rules.pro
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/proguard-rules.pro	(date 1458853102000)
++++ app/proguard-rules.pro	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values/styles.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/styles.xml	(date 1458853102000)
++++ app/src/main/res/values/styles.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/build/exploded-app/WEB-INF/web.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/build/exploded-app/WEB-INF/web.xml	(date 1458853102000)
++++ backend/build/exploded-app/WEB-INF/web.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values/colors.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/colors.xml	(date 1458853102000)
++++ app/src/main/res/values/colors.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/build/tmp/war/MANIFEST.MF
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/build/tmp/war/MANIFEST.MF	(date 1458853102000)
++++ backend/build/tmp/war/MANIFEST.MF	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/src/main/webapp/WEB-INF/logging.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/src/main/webapp/WEB-INF/logging.properties	(date 1458853102000)
++++ backend/src/main/webapp/WEB-INF/logging.properties	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/src/main/webapp/WEB-INF/web.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/src/main/webapp/WEB-INF/web.xml	(date 1458853102000)
++++ backend/src/main/webapp/WEB-INF/web.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/build/exploded-app/WEB-INF/appengine-web.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/build/exploded-app/WEB-INF/appengine-web.xml	(date 1458853102000)
++++ backend/build/exploded-app/WEB-INF/appengine-web.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values/strings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values/strings.xml	(date 1458853102000)
++++ app/src/main/res/values/strings.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: app/src/main/res/values-w820dp/dimens.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/values-w820dp/dimens.xml	(date 1458853102000)
++++ app/src/main/res/values-w820dp/dimens.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: backend/build.gradle
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- backend/build.gradle	(date 1458853102000)
++++ backend/build.gradle	(revision )
+@@ -1,0 +1,0 @@
