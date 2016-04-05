@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "24.0.0 rc2"
+    buildToolsVersion "23.0.3"
 
     defaultConfig {
         applicationId "com.gnb.ejemplo"
@@ -10,19 +10,37 @@ android {
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
+        multiDexEnabled false
     }
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+    }
+
     buildTypes {
+        debug {
+            debuggable false
+        }
+        tasks.whenTaskAdded { task ->
+            if (task.name.startsWith(":zxing:") || task.name.startsWith(":share-lib:")) {
+                task.enabled = false
+            }
+        }
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.google.appengine:appengine-api-1.0-sdk:1.9.28'
-    compile 'com.android.support:appcompat-v7:24.0.+'
+    provided fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:23.+'
+    provided 'com.google.appengine:appengine-api-1.0-sdk:1.9.28'
     testCompile 'junit:junit:4.12'
     compile project(path: ':backend', configuration: 'android-endpoints')
 }
