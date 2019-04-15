@@ -1,1 +1,1 @@
-# Ejemplo
+# Ejercicios de prueba sobre TypeScript
